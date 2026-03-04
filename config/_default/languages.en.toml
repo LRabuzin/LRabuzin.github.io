@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Lovro Rabuzin"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Lovro Rabuzin"
+  email = "lovro.rabuzin@inf.ethz.ch"
+  image = "img/author.jpg"
+  headline = "PhD Student, ETH Zurich"
+  bio = "PhD student working on AI for spatial omics."
+  links = [
+    { linkedin = "https://linkedin.com/in/lovro-rabuzin" },
+    { x-twitter = "https://x.com/rabuzin_l" },
+    { bluesky = "https://bsky.app/profile/lrabuzin.bsky.social" },
+    { github = "https://github.com/LRabuzin" },
+    { google-scholar = "https://scholar.google.com/citations?user=xJeEb2AAAAAJ&hl" },
+    { email = "mailto:lovro.rabuzin@inf.ethz.ch" },
+  ]

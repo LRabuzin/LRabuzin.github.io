@@ -1,0 +1,65 @@
+# -- Theme Options --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = false
+
+disableImageOptimization = false
+disableTextInHeader = false
+highlightCurrentMenuArea = true
+
+fingerprintAlgorithm = "sha512"
+
+[header]
+  layout = "fixed-fill-blur"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showHero = true
+  heroStyle = "basic"
+  showPagination = false
+  showReadingTime = false
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+
+[list]
+  showBreadcrumbs = true
+  showCards = true
+  cardView = true
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = false
+
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = false
+
+[term]
+  showBreadcrumbs = false
+  showTableOfContents = true
+  groupByYear = false
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]

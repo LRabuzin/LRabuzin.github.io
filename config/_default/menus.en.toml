@@ -1,0 +1,23 @@
+# -- Main Menu --
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 30
+
+[[main]]
+  name = "Teaching"
+  pageRef = "teaching"
+  weight = 40
+
+# -- Footer Menu --
