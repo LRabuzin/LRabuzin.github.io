@@ -10,6 +10,6 @@ tags: ["spatial omics", "graph neural networks", "self-supervised learning"]
 
 **Venue:** Workshop on Unifying Representations in Neural Models @ NeurIPS, 2025 (published in PMLR)
 
-{{< button href="https://openreview.net/forum?id=3riPC1Y2Jb" target="_blank" >}}
+{{< button href="https://proceedings.mlr.press/v322/rabuzin26a.html" target="_blank" >}}
 Paper
 {{< /button >}}

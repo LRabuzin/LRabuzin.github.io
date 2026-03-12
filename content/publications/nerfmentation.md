@@ -8,7 +8,7 @@ tags: ["NeRF", "depth estimation", "data augmentation", "computer vision"]
 
 **Authors:** Casimir Feldmann, Niall Siegenheim, Nikolas Hars, **Lovro Rabuzin**, Mert Ertugrul, Luca Wolfart, Marc Pollefeys, Zuria Bauer, Martin R. Oswald
 
-**Venue:** Workshop on Synthetic Data for Computer Vision @ NeurIPS, 2024
+**Venue:** Workshop on Synthetic Data for Computer Vision @ ECCV, 2024
 
 {{< button href="https://doi.org/10.48550/arXiv.2401.03771" target="_blank" >}}
 Paper
