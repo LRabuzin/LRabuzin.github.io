@@ -17,6 +17,8 @@ I develop machine learning methods for spatial omics, with a focus on graph neur
 
 ## Conference Presentations
 
+- **Sep 2026** — *DeepCAST-GWAS: Improving the Discovery of Genetic Associations Using Deep Learning-Based Regulatory SNP Prioritization* — European Conference on Computational Biology (ECCB), Geneva
+- **Jul 2026** — *GRASS-MIL: Graph-based Representation and Discovery of Phenotype-associated Spatial Structures with Multiple Instance Learning* — Ascona Workshop: Statistical and AI Methods for Multi-modal Multi-scale Modeling of Biological Systems, Monte Verità, Ascona
 - **Dec 2025** — *Exploring Augmentation-Driven Invariances for Graph Self-supervised Learning in Spatial Omics* — Workshop on Unifying Representations in Neural Models @ NeurIPS (poster)
 - **Sep 2025** — *GRASS-MIL: Graph-based Representation and Analysis of Spatial Structures with Multiple Instance Learning* — Basel Computational Biology Conference (poster)
 - **Sep 2024** — *Spatial Omics Analysis for Hypothesis Generation Using Graph Neural Networks to Explore Cellular Organization in Non-Small Cell Lung Cancer* — scverse Conference, Munich (poster)
